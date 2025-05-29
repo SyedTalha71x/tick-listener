@@ -37,7 +37,7 @@ export function setupNotificationHandler(io) {
                         type: bora === 'B' ? 'BID' : 'ASK'
                     };
 
-                    console.log(`Tick received: ${symbol} ${tickData.type} ${price}`);
+                    // console.log(`Tick received: ${symbol} ${tickData.type} ${price}`);
                     io.emit('tick',JSON.stringify(tickData));
                 } else {
                     // console.log(`Filtered out: ${symbol} (Lots: ${lots})`);
