@@ -1,0 +1,17 @@
+{"level":"info","message":"Connected to PostgreSQL database","timestamp":"2025-05-29T14:19:48.287Z"}
+{"level":"info","message":"Listening to \"tick\" channel","timestamp":"2025-05-29T14:19:48.483Z"}
+{"level":"info","message":"Monitoring these currency pairs:","timestamp":"2025-05-29T14:19:48.485Z"}
+{"level":"info","message":"ADAUSD, BTCUSD, CHZUSD, DOGUSD, EOSUSD, ETHBTC, EURUSD, GBPUSD, AUDUSD, USDJPY, USDCAD, USDCHF, ALUMINIUM, COPPER, XAGEUR, XAGUSD, XAUEUR, XAUUSD, CHNspot, AUS200spot, EU50spot, FRA40spot, GER30spot, HKspot","timestamp":"2025-05-29T14:19:48.485Z"}
+{"level":"info","message":"Server running on port 5008","timestamp":"2025-05-29T14:19:48.489Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-05-29T14:19:51.253Z"}
+{"level":"info","message":"PostgreSQL connection closed","timestamp":"2025-05-29T14:19:51.451Z"}
+{"level":"info","message":"Connected to PostgreSQL database","timestamp":"2025-05-29T14:20:17.505Z"}
+{"level":"info","message":"Listening to \"tick\" channel","timestamp":"2025-05-29T14:20:17.702Z"}
+{"level":"info","message":"Monitoring these currency pairs:","timestamp":"2025-05-29T14:20:17.704Z"}
+{"level":"info","message":"ADAUSD, BTCUSD, CHZUSD, DOGUSD, EOSUSD, ETHBTC, EURUSD, GBPUSD, AUDUSD, USDJPY, USDCAD, USDCHF, ALUMINIUM, COPPER, XAGEUR, XAGUSD, XAUEUR, XAUUSD, CHNspot, AUS200spot, EU50spot, FRA40spot, GER30spot, HKspot","timestamp":"2025-05-29T14:20:17.704Z"}
+{"level":"info","message":"Server running on port 5008","timestamp":"2025-05-29T14:20:17.707Z"}
+{"level":"info","message":"Client connected: rpZ6stqQIHAREv4GAAAB","timestamp":"2025-05-29T14:20:18.577Z"}
+{"level":"info","message":"Client disconnected: rpZ6stqQIHAREv4GAAAB","timestamp":"2025-05-29T14:20:19.187Z"}
+{"level":"info","message":"Client connected: oSj8Dg8v7DyxxnJ_AAAD","timestamp":"2025-05-29T14:20:19.738Z"}
+{"level":"info","message":"Shutting down server...","timestamp":"2025-05-29T14:20:39.521Z"}
+{"level":"info","message":"PostgreSQL connection closed","timestamp":"2025-05-29T14:20:39.715Z"}

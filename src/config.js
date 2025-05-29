@@ -15,7 +15,7 @@ export const serverPort = process.env.PORT || 5008;
 
 export const CURRENCY_PAIRS = {
   CRYPTO: ['ADAUSD', 'BTCUSD', 'CHZUSD', 'DOGUSD', 'EOSUSD', 'ETHBTC'],
-  FOREX: ['AUDCAD', 'AUDCHF', 'AUDJPY', 'AUDNZD', 'CADJPY', 'CHFJPY'],
+  FOREX: ["EURUSD","GBPUSD","AUDUSD","USDJPY","USDCAD","USDCHF"],
   METALS: ['ALUMINIUM', 'COPPER', 'XAGEUR', 'XAGUSD', 'XAUEUR', 'XAUUSD'],
   SPOT_INDICES: ['CHNspot', 'AUS200spot', 'EU50spot', 'FRA40spot', 'GER30spot', 'HKspot']
 };
